@@ -16,13 +16,9 @@ main {
 .navbar-brand img {
   height: 50px;
 }
-.img_cart {
-  height: 150px;
+footer{
+  border-top: 1px solid black;
 }
-tbody td {
-  width: 30%;
-}
-.user-header{
-  padding: 8px;
-  display: inline-block;
+footer .container{
+  padding: 10px 0;
 }
