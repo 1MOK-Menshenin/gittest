@@ -19,6 +19,9 @@ main {
 footer{
   border-top: 1px solid black;
 }
-footer .container{
-  padding: 10px 0;
+
+
+
+footer{
+  color: red;
 }
